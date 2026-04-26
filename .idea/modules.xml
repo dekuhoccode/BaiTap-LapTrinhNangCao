@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Bai10/Bai10.iml" filepath="$PROJECT_DIR$/Bai10/Bai10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tuan9.iml" filepath="$PROJECT_DIR$/Tuan9.iml" />
     </modules>
   </component>
